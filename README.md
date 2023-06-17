@@ -1,6 +1,8 @@
 # CS 231n: Deep Learning for Computer Vision
 This repo documents my solutions for  assignments of the Stanford
-[CS 231n (Deep Learning for Computer Vision - 2023)](http://cs231n.stanford.edu/) class. Setup details and the assignment descriptions can be found on the [course website](https://cs231n.github.io/)
+[CS 231n (Deep Learning for Computer Vision - 2023)](http://cs231n.stanford.edu/) class. Setup details and the assignment descriptions can be found on the [course website](https://cs231n.github.io/). Video lectures covering most of the course content can be found here:
+- [Stanford Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): Version of the class offered in 2017
+- [Michigan EECS 498-007 Deep Learning for Computer Visison](https://www.youtube.com/watch?v=dJYGatp4SvA&t=1s): Covers some additional topics covered after 2017.
 
 A brief summary of key concepts covered in different assignments is summarized below.
 
