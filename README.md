@@ -17,3 +17,18 @@ This assignment provides experience on multi-class image classification using kN
 - Implement and apply a **Two layer neural network** classifier.
 - Understand the differences and tradeoffs between these classifiers.
 - Get a basic understanding of performance improvements from using **higher-level representations** as opposed to raw pixels, e.g. color histograms, Histogram of Oriented Gradient (HOG) features, etc.
+
+## Assignment 2: [Fully Connected and Convolutional Nets, Batch Normalization, Dropout, Pytorch & Network Visualization](assignment2)
+Following are the key goals of this assignment:
+- Understand **Neural Networks** and how they are arranged in layered architectures.
+- Understand and be able to implement (vectorized) **backpropagation** for fully connected, batch norm, layer norm, dropout, 
+    among other, commonly used layers.
+- Implement various **update rules** (SGD, RMSProp, Adam, etc.) used to optimize Neural Networks.
+- Implement **Batch Normalization** and **Layer Normalization** for training deep networks.
+- Implement **Dropout** to regularize networks.
+- Understand the architecture of **Convolutional Neural Networks** and get practice with training them.
+- Gain experience with a major deep learning framework, **PyTorch**.
+
+The [linked blog post](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html) 
+was found to be very useful for understanding the backpropogarion of Batch norm and also motivated the implementation 
+of layer norm and spatial group norm layers in this assignment.
