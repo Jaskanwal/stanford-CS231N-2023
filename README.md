@@ -38,17 +38,17 @@ The goals of this assignment are as follows:
 - Visualizing network layers and understanding key image attributes resulting in model predictions in a specific class.
     - Experimentation by making **Saliency Maps**, generating fooling images to increase changes of model predicting a target class and visualizing different classes. 
 <p align="center">
-<img src="images/Saliency_maps.png" alt="Saliency Maps" width="450"/> 
+<img src="assignment3/images/Saliency_maps.png" alt="Saliency Maps" width="450"/> 
 </p>
 - Understand and implement **RNN, LSTM, and Transformer** networks. Combine them with CNN networks for **image captioning**.
 - Understand how to train and implement a **Generative Adversarial Network** (GAN) to produce images that resemble samples from a dataset.
 
 <p align="center">
-<img src="images/gan_outputs_pytorch.png" alt="Vanilla, Least Square, Deep Convolutional GAN outputs on MNIST dataset" width="450"/> 
+<img src="assignment3/images/gan_outputs_pytorch.png" alt="Vanilla, Least Square, Deep Convolutional GAN outputs on MNIST dataset" width="450"/> 
 </p>
 
 - Understand how to leverage **self-supervised learning** techniques to help with image classification task by implementing [SimCLR](https://arxiv.org/pdf/2002.05709.pdf) algorithm.
 
 <p align="center">
-<img src="images/simclr_fig2.png" alt="SimCLR algorithm implemented in this assignment" width="300"/> 
+<img src="assignment3/images/simclr_fig2.png" alt="SimCLR algorithm implemented in this assignment" width="300"/> 
 </p>
