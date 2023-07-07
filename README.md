@@ -37,9 +37,11 @@ of layer norm and spatial group norm layers in this assignment.
 The goals of this assignment are as follows:
 - Visualizing network layers and understanding key image attributes resulting in model predictions in a specific class.
     - Experimentation by making **Saliency Maps**, generating fooling images to increase changes of model predicting a target class and visualizing different classes. 
+
 <p align="center">
 <img src="assignment3/images/Saliency_maps.png" alt="Saliency Maps" width="450"/> 
 </p>
+
 - Understand and implement **RNN, LSTM, and Transformer** networks. Combine them with CNN networks for **image captioning**.
 - Understand how to train and implement a **Generative Adversarial Network** (GAN) to produce images that resemble samples from a dataset.
 
